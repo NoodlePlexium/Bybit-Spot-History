@@ -1,5 +1,5 @@
 # Bybit-Spot-History
-A Python script that retrieves spot candlestick data from Bybit and saves it to csv
+A Python script that retrieves spot candlestick data from Bybit and saves it to a csv
 
 To download spot data:
 
@@ -34,7 +34,7 @@ Example: 22
 Supported timeframes: 1, 2, 3, 4, 5, 6, 8, 9, 10... all factors of 1440 are supported
 Example: 30
 
-*Note----------------------------*
+# Note----------------------------#
 Bybit only has limited spot data history
 refer to https://public.bybit.com/spot_index/ to view available historical data
 
