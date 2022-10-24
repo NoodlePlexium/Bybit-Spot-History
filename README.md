@@ -9,6 +9,7 @@ the function takes 5 arguments:
 
 (string) pair: 
 
+# Available Pairs
 "ADAUSD" 
 "BITUSD"
 "BTCUSD"
